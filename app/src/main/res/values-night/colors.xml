@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#673AB7</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="statuscolor">#21165CE9</color>
+    <color name="night1">#A9798BC5</color>
+    <color name="button">#82B5E6</color>
+</resources>
